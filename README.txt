@@ -1,4 +1,4 @@
-![Overview Image](https://github.com/dishamagarwal/Image-Processing/blob/main/res/MosaicCheetah1000.ppm?raw=true)
+![Overview Image](https://github.com/dishamagarwal/Image-Processing/blob/main/res/my_project.png?raw=true)
 
 --------------------------------------------------------------
 --------------------Changes made to Design--------------------
