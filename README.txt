@@ -1,4 +1,4 @@
-![Overview Image](https://github.com/dishamagarwal/Image-Processing/blob/main/res/my_project_screenshot.jpg?raw=true)
+![my_project_overview](https://user-images.githubusercontent.com/68860743/201533228-76c33cf7-0943-420e-8690-bb250f5b6779.jpg)
 
 --------------------------------------------------------------
 --------------------Changes made to Design--------------------
